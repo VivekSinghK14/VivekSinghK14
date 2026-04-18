@@ -1,6 +1,6 @@
 # 🌟 Vivek Kumar Singh — Data Scientist & AI Engineer
 
-Passionate about **Machine Learning**, **AI**, **LLMs**, and **Data Engineering**, currently pursuing a **Master’s in Digital Engineering** at Otto‑von‑Guericke University, Germany. I build intelligent systems, architect AI solutions, and love transforming data into real-world impact.
+I’m deeply interested in Machine Learning, AI, LLMs, and Data Engineering, and currently pursuing my Master’s in Digital Engineering at Otto-von-Guericke University, Germany. I love creating intelligent systems, exploring new ideas in AI, and transforming data into solutions that actually make a difference.
 
 ---
 
