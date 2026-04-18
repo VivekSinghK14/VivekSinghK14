@@ -1,171 +1,86 @@
-# 🌟 Vivek Kumar Singh — Data Scientist & AI Engineer
+<div align="center">
 
-I’m deeply interested in Machine Learning, AI, LLMs, and Data Engineering, and currently pursuing my Master’s in Digital Engineering at Otto-von-Guericke University, Germany. I love creating intelligent systems, exploring new ideas in AI, and transforming data into solutions that actually make a difference.
+<!-- HEADER (FIXED VISIBILITY) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ffe0,100:000000&height=240&section=header&text=Vivek%20Kumar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Explorer&descAlignY=60&descColor=ffffff"/>
 
----
+<!-- CODING VISUAL -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-## 🚀 About Me
-- 🎓 Master’s student in Digital Engineering (Germany)  
-- 🤖 Skilled in Machine Learning, Deep Learning, LLMs 
-- 📊 Strong in Data Visualization & Analytical Storytelling  
-- 🛠️ Experienced with SAP S/4HANA, Datasphere, and enterprise data pipelines   
-- 🌍 Open to collaborations in AI, ML, and Data Engineering  
+<!-- TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer;📊+Data+Scientist;🧠+LLMs+%7C+Deep+Learning;⚙️+SAP+%7C+Data+Engineering;🌍+Open+to+Collaborations)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🧠 Technical Skills
+<!-- BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vivek-singh-817a77195)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ffe0?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-vert-two-02fklhfwlr.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-00ffe0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vivekkumarsingh1911@gmail.com)
 
-### 🔹 Programming
-- Python  
-- SQL  
+<br/>
 
-### 🔹 Data Science & AI
-- Pandas, NumPy  
-- Scikit-learn  
-- TensorFlow, PyTorch  
+![Profile Views](https://komarev.com/ghpvc/?username=VivekSinghK14&color=00ffe0&style=for-the-badge)
 
-### 🔹 Visualization
-- Power BI  
-- Matplotlib, Seaborn  
-- Excel, PowerPoint  
-
-### 🔹 Databases & ETL
-- PostgreSQL  
-- SQL Server  
-- ETL Pipelines  
-
-### 🔹 Enterprise Tools
-- SAP S/4HANA  
-- SAP Datasphere  
-
-### 🔹 DevOps & Tools
-- Git  
-- Docker  
-- Maven  
+</div>
 
 ---
 
-## 🖼️ Tech Stack Logos
+## 🌟 About Me
+
+I’m passionate about **Machine Learning, AI, LLMs, and Data Engineering**.  
+Currently pursuing my **Master’s in Digital Engineering (Germany)** and building intelligent systems that solve real-world problems.
 
 ---
 
-### 🔧 Languages & Python Libraries
+## 🚀 Highlights
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>
-      <b>Python</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/><br>
-      <b>NumPy</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/><br>
-      <b>Pandas</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br>
-      <b>Scikit‑Learn</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/><br>
-      <b>TensorFlow</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/><br>
-      <b>PyTorch</b>
-    </td>
-  </tr>
-</table>
+- 🎓 Master's in Digital Engineering  
+- 🤖 AI, ML & LLM Enthusiast  
+- 📊 Data Storytelling & Visualization  
+- 🛠️ SAP S/4HANA & Data Pipelines  
+- 🌍 Open to AI collaborations  
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ffe0&height=2"/>
+
+## 🧠 Tech Stack
+
+### 🔧 Languages
+![Python](https://img.shields.io/badge/Python-00ffe0?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00ffe0?style=for-the-badge&logo=postgresql&logoColor=black)
+
+### 🤖 AI / ML
+![Pandas](https://img.shields.io/badge/Pandas-00ffe0?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-00ffe0?style=for-the-badge&logo=numpy&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-00ffe0?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00ffe0?style=for-the-badge&logo=tensorflow&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-00ffe0?style=for-the-badge&logo=pytorch&logoColor=black)
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ffe0?style=for-the-badge&logo=postgresql&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00ffe0?style=for-the-badge&logo=mysql&logoColor=black)
 
 ## 📊 Visualization Tools
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" width="70"/><br>
-      <b>Matplotlib</b>
-    </td>
-    <td align="center">
-      <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="70"/><br>
-      <b>Seaborn</b>
-    </td>
-    <td align="center">
-      <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-500x281.png" width="70"/><br>
-      <b>Power BI</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/><br>
-      <b>Pandas</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/><br>
-      <b>NumPy</b>
-    </td>
-  </tr>
-</table>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00ffe0?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-00ffe0?style=for-the-badge&logo=python&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-00ffe0?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+## ⚙️ DevOps & Tools
 
-### 🗄️ Databases
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/><br>
-      <b>PostgreSQL</b>
-    </td>
-    <td align="center">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60"/><br>
-      <b>SQL Server</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏢 Enterprise Tools
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" width="100"/><br>
-      <b>SAP S/4HANA</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚙️ DevOps & Tools
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/><br>
-      <b>Git</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65"/><br>
-      <b>Docker</b>
-    </td>
-    <td align="center">
-      <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80"/><br>
-    </td>
-  </tr>
-</table>
+![Git](https://img.shields.io/badge/Git-00ffe0?style=for-the-badge&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00ffe0?style=for-the-badge&logo=docker&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-00ffe0?style=for-the-badge&logo=apachemaven&logoColor=black)
 
 
 ---
 
 ## 🏆 Achievements
-- Architected **AI solutions for 5+ SAP HANA clients** (2024)  
-- Certified in **Configuring ABAP on SAP BTP** for 3+ enterprise projects (2023–2024)  
-- Delivered scalable ML pipelines and enterprise-grade data workflows  
+
+- 🚀 Architected **AI solutions for 5+ SAP HANA clients** (2024)
+- 📜 Certified in **Configuring ABAP on SAP BTP** for 3+ enterprise projects (2023–2024)
+- ⚡ Delivered scalable ML pipelines and enterprise-grade data workflows
 
 ---
 
@@ -181,49 +96,34 @@ Abdul Kalam Technical University, India
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe0,100:000000&height=2"/>
+
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekSinghK14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSinghK14&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSinghK14&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=VivekSinghK14&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSinghK14&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSinghK14&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+</div>
+
+---
+
+
+## 📫 Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/vivek-singh-817a77195  
+- 🌐 Portfolio: https://portfolio-vert-two-02fklhfwlr.vercel.app/  
+- 📧 Email: vivekkumarsingh1911@gmail.com  
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vivek-singh-817a77195" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" height="26" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vivek-singh-817a77195" target="_blank">
-    www.linkedin.com/in/vivek-singh-817a77195
-  </a>
-</p>
+✨ *Turning Data into Intelligence*
 
-<p align="left">
-  <a href="https://portfolio-vert-two-02fklhfwlr.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="24" height="24" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-vert-two-02fklhfwlr.vercel.app/" target="_blank">
-    https://portfolio-vert-two-02fklhfwlr.vercel.app/
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ffe0,100:000000&height=120&section=footer"/>
 
-<p align="left">
-  <a href="mailto:vivekkumarsingh1911@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" height="24" />
-  </a>
-  &nbsp; 
-  <a href="mailto:vivekkumarsingh1911@gmail.com">
-    vivekkumarsingh1911@gmail.com
-  </a>
-</p>
-
----
+</div>
