@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ffe0,100:000000&height=250&section=header&text=Vivek%20Kumar%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Explorer&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFE0&center=true&vCenter=true&width=800&height=50&lines=Building+intelligent+systems+with+LLMs;Turning+raw+data+into+business+decisions;Deep+Learning+%7C+NLP+%7C+ML+Pipelines;AI+solutions+for+SAP+S%2F4HANA+enterprises;M.Sc.+Digital+Engineering+in+Germany;Open+to+opportunities+and+collaborations)](https://github.com/VivekSinghK14)
+<img src="assets/hero.svg" alt="Vivek Kumar Singh - AI Engineer, Data Scientist, LLM Explorer" width="100%"/>
 
 <br/>
 
@@ -11,37 +9,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact-00ffe0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vivekkumarsingh1911@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=VivekSinghK14&color=00ffe0&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ======================= IMPACT AT A GLANCE ======================= -->
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h1>5+</h1>
-<b>SAP HANA clients</b><br/>
-<sub>AI solutions architected (2024)</sub>
-</td>
-<td align="center" width="25%">
-<h1>3+</h1>
-<b>Enterprise projects</b><br/>
-<sub>ABAP on SAP BTP (2023–2024)</sub>
-</td>
-<td align="center" width="25%">
-<h1>1.7</h1>
-<b>M.Sc. grade</b><br/>
-<sub>Digital Engineering, Germany</sub>
-</td>
-<td align="center" width="25%">
-<h1>80%</h1>
-<b>B.Tech score</b><br/>
-<sub>Computer Science & Engineering</sub>
-</td>
-</tr>
-</table>
+<img src="assets/impact.svg" alt="Impact at a glance: 5+ SAP HANA clients, 3+ enterprise projects, 1.7 M.Sc. grade, 80% B.Tech" width="100%"/>
 
 </div>
 
