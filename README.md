@@ -123,10 +123,6 @@ Scalable data pipelines and AI delivered inside real enterprise landscapes (SAP 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSinghK14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekSinghK14&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 ---
