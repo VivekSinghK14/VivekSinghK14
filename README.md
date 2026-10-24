@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Vivek Kumar Singh - AI Engineer, Data Scientist, LLM Explorer" width="100%"/>
+<img src="https://raw.githubusercontent.com/VivekSinghK14/assets/main/hero.svg" alt="Vivek Kumar Singh - AI Engineer, Data Scientist, LLM Explorer" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="assets/impact.svg" alt="Impact at a glance: 5+ SAP HANA clients, 3+ enterprise projects, 1.7 M.Sc. grade, 80% B.Tech" width="100%"/>
+<img src="https://raw.githubusercontent.com/VivekSinghK14/assets/main/impact.svg" alt="Impact at a glance: 5+ SAP HANA clients, 3+ enterprise projects, 1.7 M.Sc. grade, 80% B.Tech" width="100%"/>
 
 </div>
 
