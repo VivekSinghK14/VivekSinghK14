@@ -6,8 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vivek-singh-817a77195)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ffe0?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-vert-two-02fklhfwlr.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-00ffe0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vivekkumarsingh1911@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=VivekSinghK14&color=00ffe0&style=for-the-badge&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-Contact-00ffe0?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=vivekkumarsingh1911@gmail.com&su=Hello%20Vivek)
+
+<sub>📧 vivekkumarsingh1911@gmail.com</sub>
 
 <br/><br/>
 
@@ -116,7 +117,7 @@ Scalable data pipelines and AI delivered inside real enterprise landscapes (SAP 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VivekSinghK14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VivekSinghK14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=VivekSinghK14&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
@@ -143,7 +144,7 @@ Scalable data pipelines and AI delivered inside real enterprise landscapes (SAP 
 |:---:|:---:|
 | 🔗 **LinkedIn** | [vivek-singh-817a77195](https://www.linkedin.com/in/vivek-singh-817a77195) |
 | 🌐 **Portfolio** | [portfolio-vert-two-02fklhfwlr.vercel.app](https://portfolio-vert-two-02fklhfwlr.vercel.app/) |
-| 📧 **Email** | [vivekkumarsingh1911@gmail.com](mailto:vivekkumarsingh1911@gmail.com) |
+| 📧 **Email** | [vivekkumarsingh1911@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=vivekkumarsingh1911@gmail.com&su=Hello%20Vivek) |
 
 <br/>
 
